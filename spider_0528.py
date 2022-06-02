@@ -1,5 +1,6 @@
 '''
 edit by 洪晶 2022.05.28
+repair 2022.06.02
 用途：爬虫程序，试讲用
 '''
 import requests
